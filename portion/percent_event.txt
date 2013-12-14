@@ -1,0 +1,40 @@
+vegas warm-up ==================
+result =  2.876878e+01
+sigma =  8.659366e+00
+converging...
+result =  8.730183e+04f sigma =  5.873092e+01f chisq/dof = 2.9
+result =  8.720325e+04f sigma =  2.102204e+01f chisq/dof = 2.2
+result =  8.724399e+04f sigma =  2.165938e+01f chisq/dof = 1.6
+result =  8.729631e+04f sigma =  2.198504e+01f chisq/dof = 0.1
+result =  8.725944e+04f sigma =  2.163585e+01f chisq/dof = 0.3
+result =  8.723296e+04f sigma =  2.218590e+01f chisq/dof = 2.4
+result =  8.725834e+04f sigma =  2.217296e+01f chisq/dof = 2.3
+result =  8.723493e+04f sigma =  2.227398e+01f chisq/dof = 0.8
+vegas final ==================
+result =  8.723493e+04
+sigma =  2.227398e+01
+bd: 1.630466e-01
+ms: 5.899488e-01
+wd: 1.603455e-01
+bh: 8.812998e-03
+ns: 7.829191e-02
+vegas warm-up ==================
+result =  2.876878e+01
+sigma =  8.659366e+00
+converging...
+result =  8.730183e+04f sigma =  5.873092e+01f chisq/dof = 2.9
+result =  8.720325e+04f sigma =  2.102204e+01f chisq/dof = 2.2
+result =  8.724399e+04f sigma =  2.165938e+01f chisq/dof = 1.6
+result =  8.729631e+04f sigma =  2.198504e+01f chisq/dof = 0.1
+result =  8.725944e+04f sigma =  2.163585e+01f chisq/dof = 0.3
+result =  8.723296e+04f sigma =  2.218590e+01f chisq/dof = 2.4
+result =  8.725834e+04f sigma =  2.217296e+01f chisq/dof = 2.3
+result =  8.723493e+04f sigma =  2.227398e+01f chisq/dof = 0.8
+vegas final ==================
+result =  8.723493e+04
+sigma =  2.227398e+01
+bd: 1.459721e-01
+ms: 5.281684e-01
+wd: 1.435539e-01
+bh: 7.890087e-03
+ns: 1.748147e-01

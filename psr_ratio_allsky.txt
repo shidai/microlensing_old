@@ -1,0 +1,60 @@
+rank 59 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 59: killed by signal 15 
+rank 58 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 58: killed by signal 15 
+rank 57 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 57: killed by signal 9 
+rank 56 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 56: killed by signal 15 
+rank 54 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 54: killed by signal 15 
+rank 52 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 52: killed by signal 15 
+rank 50 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 50: killed by signal 9 
+rank 49 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 49: killed by signal 9 
+rank 48 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 48: killed by signal 15 
+rank 47 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 47: killed by signal 15 
+rank 46 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 46: killed by signal 15 
+rank 25 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 25: killed by signal 9 
+rank 23 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 23: killed by signal 9 
+rank 22 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 22: killed by signal 9 
+rank 19 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 19: killed by signal 9 
+rank 18 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 18: killed by signal 9 
+rank 17 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 17: killed by signal 9 
+rank 15 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 15: killed by signal 9 
+rank 14 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 14: killed by signal 9 
+rank 13 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 13: killed by signal 9 
+rank 11 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 11: killed by signal 9 
+rank 9 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 9: killed by signal 9 
+rank 7 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 7: killed by signal 9 
+rank 6 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 6: killed by signal 9 
+rank 5 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 5: killed by signal 15 
+rank 4 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 4: killed by signal 9 
+rank 3 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 3: killed by signal 9 
+rank 2 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 2: killed by signal 9 
+rank 1 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 1: killed by signal 9 
+rank 0 in job 17  orion_49368   caused collective abort of all ranks
+  exit status of rank 0: killed by signal 9 
